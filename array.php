@@ -3,7 +3,10 @@
 $ProgrammingLanguage = ['PHP', 'Java','Python'];
 //echo $ProgrammingLanguage[1];
 
-var_dump(isset($ProgrammingLanguage[0]));
+//var_dump(isset($ProgrammingLanguage[0]));
+
+$string='Rilwan';
+echo string;
 
 
 
