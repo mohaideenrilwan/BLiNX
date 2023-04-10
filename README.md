@@ -1,0 +1,2 @@
+# BLiNX
+Degitalize Your Life
